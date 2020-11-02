@@ -1,7 +1,7 @@
 ---
-name: The Fabulous
-tools: [Android, Material Design]
+name: WASP-96 b
+tools: [TauREx, Iraclis]
 image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
-description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
-external_url: https://thefabulous.co/
+description: Analysed transit signal from WASP-96 b using data collected from Hubble Space Telescope
+external_url: https://arxiv.org/pdf/2009.10438.pdf
 ---
