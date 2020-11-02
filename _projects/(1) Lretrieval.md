@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: L-retireval Project
+tools: [TauREx, Pylightcurve]
+image:
+description: The L-retrieval project develops new ways to retrieve exoplanet characteristic from telescope data. We demonstrated that one can extract vital atmospheric information directly from the instrument light-curves, without extracting their wave-length dependent transit depths. 
+external_url: https://iopscience.iop.org/article/10.3847/1538-3881/abaabc
 ---
