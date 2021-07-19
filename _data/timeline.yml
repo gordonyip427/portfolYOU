@@ -1,7 +1,7 @@
 - title: Alan Turing Intern, TRL
   from: 2020 Nov
   to: 2021 Feb
-  description: 4 months internship with a focus on building a deep learning model to predict the onset of traffic incidents. 
+  description: a 4 months internship with a focus on building a prototype deep learning based model to predict the onset of traffic incidents. 
 
 - title: Placement Student, Alan Turing Institute
   from: 2020 Jan
@@ -16,5 +16,7 @@
 - title: Student, UCL Astrophysics
   from: 2013
   to: 2017
-  description: MSci Astrophysics
+  description: 
+  - MSci Astrophysics
+  - First Class Honour with Dean's List
 
