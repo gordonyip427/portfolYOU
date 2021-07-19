@@ -1,7 +1,7 @@
 - title: Alan Turing Intern, TRL
   from: 2020 Nov
   to: 2021 Feb
-  description: a 4 months internship with a focus on building a prototype deep learning based model to predict the onset of traffic incidents. 
+  description: I was responsible to a build a prototype deep learning based model to predict the onset of traffic incidents. I have also written a dedicated data pipeline to extract, clean and transform raw data from live traffic record into data product ready for machine learning applications or data visualisations.
 
 - title: Placement Student, Alan Turing Institute
   from: 2020 Jan
