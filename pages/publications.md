@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Publications
 weight: 2
 permalink: /publications/
