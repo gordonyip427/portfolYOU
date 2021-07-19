@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-So I gathered if you bump into this page, you probably want to learn my background. I am a [CDT in Data Intensive Science](http://www.hep.ucl.ac.uk/cdt-dis/) doctoral student at UCL, and a member of [CSED](https://www.ucl.ac.uk/space-exochemistry-data/) and [ExoAI](http://exoai.eu/).  I have a background in astrophysics. My research focuses on applying Machine Learning and Deep Learning techniques to help further our understanding on remote exoplanets. You can find my past and current works in Projects. Apart from my adventure in A.I., I am also very keen on cooking, especially Cantonese cuisine. 
+So I gathered if you bump into this page, you probably want to learn my background. I am a PhD student pursuing a [CDT in Data Intensive Science](http://www.hep.ucl.ac.uk/cdt-dis/) at UCL. I am also a member of [CSED](https://www.ucl.ac.uk/space-exochemistry-data/), [ExoAI](http://exoai.eu/) and the [Ariel Consortium](https://arielmission.space/). My research focuses on applying Machine Learning and Deep Learning techniques to help us better understand the atmosphere of exoplanets, aka planets outside our solar system. You can find my past and current works in Projects. 
 
 
 <div class="row">
